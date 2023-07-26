@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenil011
-- 👀 I’m  learning programming languages and software
+- 👀 I’m  learning programming languages and softwares
 - 🌱 I’m currently learning github,git,java and python
 - 💞️ I’m on path to become fullstack developer
 

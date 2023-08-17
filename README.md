@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kenil011/count.svg?"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
 ###

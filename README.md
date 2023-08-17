@@ -14,6 +14,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kenil011/count.svg?"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
 
 ###
@@ -52,6 +58,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kenil011/kenil011/output/snake.svg" alt="Snake animation" />
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kenil011&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
